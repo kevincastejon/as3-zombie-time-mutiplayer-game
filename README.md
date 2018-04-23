@@ -3,7 +3,10 @@
 
 Written from scratch in AS3.
 
-[Sources](http://www.kevincastejon.fr/autres/documentations/PiooJSTools/)
-[Windows installer](http://www.kevincastejon.fr/autres/documentations/PiooJSTools/)
-[MacOSx installer](http://www.kevincastejon.fr/autres/documentations/PiooJSTools/)
-[Portable executable](http://www.kevincastejon.fr/autres/documentations/PiooJSTools/)
+[Windows installer](https://github.com/lePioo/ZombieTime/blob/master/ZombieTime.exe)
+
+[MacOSx installer](https://github.com/lePioo/ZombieTime/blob/master/ZombieTime.dmg)
+
+[AIR installer](https://github.com/lePioo/ZombieTime/blob/master/ZombieTime.air)
+
+[Portable executable](https://github.com/lePioo/ZombieTime/blob/master/ZombieTime_portable)
